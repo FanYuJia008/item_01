@@ -1,0 +1,9 @@
+# 井号是注释
+# 不需要git管理的文件直接写在下面
+passwword.txt
+#忽略css下的index.less
+css/index.less
+#忽略文件夹下的所有
+我要忽略的文件夹
+#忽略文件夹下的一类文件
+js/*.txt
